@@ -1,3 +1,3 @@
 # Actions1
 Action testing
-int a = 30
+int b = 30
